@@ -158,8 +158,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Plotly team for their amazing visualization library
 - The open-source community for inspiration and support
-- All contributors who have helped shape this project
-
----
-
-Made with ❤️ by the FinancePlotter team 
+- All contributors who have helped shape this project 
