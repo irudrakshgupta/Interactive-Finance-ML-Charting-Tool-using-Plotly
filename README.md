@@ -3,8 +3,6 @@
 > Interactive financial and machine learning visualizations made simple and beautiful
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/FinancePlotter.svg)](https://github.com/yourusername/FinancePlotter/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/FinancePlotter.svg)](https://github.com/yourusername/FinancePlotter/network)
 
 ![FinancePlotter Demo](docs/demo.gif)
 
